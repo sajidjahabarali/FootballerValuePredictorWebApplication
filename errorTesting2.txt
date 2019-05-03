@@ -1,0 +1,395 @@
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: relu
+Loss of Testing Set:€ 2.50 M
+Mean Absolute Error of Testing Set:€ 1.01 M
+Mean Squared Error of Testing Set:€ 2.50 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€  nan M
+Mean Absolute Error of Testing Set:€  nan M
+Mean Squared Error of Testing Set:€  nan M
+Accuracy of Testing Set: 0.00 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€143.32 M
+Mean Absolute Error of Testing Set:€ 7.32 M
+Mean Squared Error of Testing Set:€143.32 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 2.36 M
+Mean Absolute Error of Testing Set:€ 1.10 M
+Mean Squared Error of Testing Set:€ 2.36 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 4.90 M
+Mean Absolute Error of Testing Set:€ 1.25 M
+Mean Squared Error of Testing Set:€ 4.90 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 2.61 M
+Mean Absolute Error of Testing Set:€ 1.07 M
+Mean Squared Error of Testing Set:€ 2.61 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 3.80 M
+Mean Absolute Error of Testing Set:€ 1.12 M
+Mean Squared Error of Testing Set:€ 3.80 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€13.76 M
+Mean Absolute Error of Testing Set:€ 1.55 M
+Mean Squared Error of Testing Set:€13.76 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€31.43 M
+Mean Absolute Error of Testing Set:€ 2.35 M
+Mean Squared Error of Testing Set:€31.43 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 2.61 M
+Mean Absolute Error of Testing Set:€ 1.10 M
+Mean Squared Error of Testing Set:€ 2.61 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 4.54 M
+Mean Absolute Error of Testing Set:€ 1.30 M
+Mean Squared Error of Testing Set:€ 4.54 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€17.89 M
+Mean Absolute Error of Testing Set:€ 2.16 M
+Mean Squared Error of Testing Set:€17.89 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 2.33 M
+Mean Absolute Error of Testing Set:€ 1.03 M
+Mean Squared Error of Testing Set:€ 2.33 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 2.29 M
+Mean Absolute Error of Testing Set:€ 1.00 M
+Mean Squared Error of Testing Set:€ 2.29 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 3.81 M
+Mean Absolute Error of Testing Set:€ 1.19 M
+Mean Squared Error of Testing Set:€ 3.81 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 1.95 M
+Mean Absolute Error of Testing Set:€ 0.87 M
+Mean Squared Error of Testing Set:€ 1.95 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 1.82 M
+Mean Absolute Error of Testing Set:€ 0.87 M
+Mean Squared Error of Testing Set:€ 1.82 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 2.71 M
+Mean Absolute Error of Testing Set:€ 1.09 M
+Mean Squared Error of Testing Set:€ 2.71 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 4.21 M
+Mean Absolute Error of Testing Set:€ 1.17 M
+Mean Squared Error of Testing Set:€ 4.21 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 5.67 M
+Mean Absolute Error of Testing Set:€ 1.12 M
+Mean Squared Error of Testing Set:€ 5.67 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€30.69 M
+Mean Absolute Error of Testing Set:€ 2.33 M
+Mean Squared Error of Testing Set:€30.69 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 2.62 M
+Mean Absolute Error of Testing Set:€ 1.07 M
+Mean Squared Error of Testing Set:€ 2.62 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 4.78 M
+Mean Absolute Error of Testing Set:€ 1.33 M
+Mean Squared Error of Testing Set:€ 4.78 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 1500
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€19.44 M
+Mean Absolute Error of Testing Set:€ 2.26 M
+Mean Squared Error of Testing Set:€19.44 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: relu
+Loss of Testing Set:€ 2.07 M
+Mean Absolute Error of Testing Set:€ 0.99 M
+Mean Squared Error of Testing Set:€ 2.07 M
+Accuracy of Testing Set: 0.00 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: relu
+Loss of Testing Set:€ 4.01 M
+Mean Absolute Error of Testing Set:€ 1.35 M
+Mean Squared Error of Testing Set:€ 4.01 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: relu
+Loss of Testing Set:€ 3.44 M
+Mean Absolute Error of Testing Set:€ 1.22 M
+Mean Squared Error of Testing Set:€ 3.44 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: relu
+Loss of Testing Set:€ 2.44 M
+Mean Absolute Error of Testing Set:€ 1.13 M
+Mean Squared Error of Testing Set:€ 2.44 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: relu
+Loss of Testing Set:€ 2.20 M
+Mean Absolute Error of Testing Set:€ 1.09 M
+Mean Squared Error of Testing Set:€ 2.20 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: relu
+Loss of Testing Set:€ 3.28 M
+Mean Absolute Error of Testing Set:€ 1.20 M
+Mean Squared Error of Testing Set:€ 3.28 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: relu
+Loss of Testing Set:€ 2.49 M
+Mean Absolute Error of Testing Set:€ 1.09 M
+Mean Squared Error of Testing Set:€ 2.49 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: relu
+Loss of Testing Set:€ 3.71 M
+Mean Absolute Error of Testing Set:€ 1.28 M
+Mean Squared Error of Testing Set:€ 3.71 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: relu
+Loss of Testing Set:€ 5.55 M
+Mean Absolute Error of Testing Set:€ 1.51 M
+Mean Squared Error of Testing Set:€ 5.55 M
+Accuracy of Testing Set: 0.00 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: relu
+Loss of Testing Set:€ 1.75 M
+Mean Absolute Error of Testing Set:€ 0.94 M
+Mean Squared Error of Testing Set:€ 1.75 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€149.55 M
+Mean Absolute Error of Testing Set:€10.02 M
+Mean Squared Error of Testing Set:€149.55 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€2130.95 M
+Mean Absolute Error of Testing Set:€44.93 M
+Mean Squared Error of Testing Set:€2130.95 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 3.98 M
+Mean Absolute Error of Testing Set:€ 1.15 M
+Mean Squared Error of Testing Set:€ 3.98 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 2.20 M
+Mean Absolute Error of Testing Set:€ 0.94 M
+Mean Squared Error of Testing Set:€ 2.20 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 5.47 M
+Mean Absolute Error of Testing Set:€ 1.33 M
+Mean Squared Error of Testing Set:€ 5.47 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 1.77 M
+Mean Absolute Error of Testing Set:€ 0.86 M
+Mean Squared Error of Testing Set:€ 1.77 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 1.53 M
+Mean Absolute Error of Testing Set:€ 0.82 M
+Mean Squared Error of Testing Set:€ 1.53 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 3.17 M
+Mean Absolute Error of Testing Set:€ 1.08 M
+Mean Squared Error of Testing Set:€ 3.17 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 6.01 M
+Mean Absolute Error of Testing Set:€ 1.21 M
+Mean Squared Error of Testing Set:€ 6.01 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 3.74 M
+Mean Absolute Error of Testing Set:€ 1.06 M
+Mean Squared Error of Testing Set:€ 3.74 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€13.55 M
+Mean Absolute Error of Testing Set:€ 1.56 M
+Mean Squared Error of Testing Set:€13.55 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 2.59 M
+Mean Absolute Error of Testing Set:€ 1.14 M
+Mean Squared Error of Testing Set:€ 2.59 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 2.89 M
+Mean Absolute Error of Testing Set:€ 1.05 M
+Mean Squared Error of Testing Set:€ 2.89 M
+Accuracy of Testing Set: 0.01 
+--------------------------------------------------------------------
+epochs: 2000
+loss: mse
+activation: sigmoid
+Loss of Testing Set:€ 8.21 M
+Mean Absolute Error of Testing Set:€ 1.59 M
+Mean Squared Error of Testing Set:€ 8.21 M
+Accuracy of Testing Set: 0.00 
+
+
+
+
+==================================================
+Lowest MSE = 1.5318974
+lossParam: ['mse']
+activationParam: sigmoid
+optimizerParam: SGD
+learningRateParam: 0.001
+batchSize: 64
